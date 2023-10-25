@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dahim0
 - 👀 I’m interested in webdevlopment and video game creating
-- 🌱 I’m currently learning cs
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate whit somone to make my website more beautiful.
 - 📫 How to reach me: mail me to abderrahim.athimni2011@gmail.com
 
